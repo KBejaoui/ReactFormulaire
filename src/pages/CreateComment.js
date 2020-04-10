@@ -103,4 +103,4 @@ const CreateComment = () => {
     );
 };
 
-export default CreateComment;
+export default CreateComment
